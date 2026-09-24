@@ -5,7 +5,7 @@ class Zine < Formula
   sha256 "5f2222d88343c4dc474d8c6f499bf754aa2766b2a7bd518abf7bf331645d2b7c"
 
   def install
-    bin.install "aarch64-macos.zip"
+    bin.install "zine"
   end
 
   test do
