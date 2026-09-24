@@ -1,10 +1,16 @@
-# Brixen Tap
+# Handy Tools to Instal via Homebrew
 
 ## How do I install these formulae?
 
-`brew install brixen/tap/<formula>`
+```sh
+$ brew install brixen/tap/<formula>
+```
+Or
 
-Or `brew tap brixen/tap` and then `brew install <formula>`.
+```sh
+$ brew tap brixen/tap
+$ brew install <formula>
+```
 
 Or, in a `brew bundle` `Brewfile`:
 
