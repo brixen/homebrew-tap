@@ -1,4 +1,4 @@
-class Mytool < Formula
+class Zine < Formula
   desc "Zine static site generator written in Zig"
   homepage "https://github.com/kristoff-it"
   url "https://github.com/kristoff-it/zine/releases/download/v0.14.0/aarch64-macos.zip"
