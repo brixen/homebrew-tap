@@ -1,4 +1,4 @@
-# Handy Tools to Instal via Homebrew
+# Handy tools to install via Homebrew
 
 ## How do I install these formulae?
 
