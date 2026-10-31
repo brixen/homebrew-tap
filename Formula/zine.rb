@@ -1,8 +1,8 @@
 class Zine < Formula
   desc "Static site generator written in Zig"
   homepage "https://github.com/kristoff-it"
-  url "https://github.com/kristoff-it/zine/releases/download/v0.14.0/aarch64-macos.zip"
-  sha256 "5f2222d88343c4dc474d8c6f499bf754aa2766b2a7bd518abf7bf331645d2b7c"
+  url "https://github.com/kristoff-it/zine/releases/download/v0.14.1/aarch64-macos.zip"
+  sha256 "0f7cee1c49d18f804d24958573339f0c82dfce778b04e1bd6478f7262d46e714"
 
   def install
     bin.install "zine"
